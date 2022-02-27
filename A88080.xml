@@ -1,0 +1,967 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The glorious truth of redemption by Jesus Christ, rescued out of the hand or unrighteousnes. Or the doctrine of redemption rightly stated: wherein, 1. All Arminian and Pelagian glosses and absurdities are refuted. 2. All carnal allegations and reasonings silenc'd. 3. All concern'd scriptures seemingly discording, reconcil'd. 4. The doctrine of redemption clearly held forth, according to the harmony of scripture, and analogie of faith. By W.L.</title>
+            <author>Levitt, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 84 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88080</idno>
+            <idno type="STC">Wing L1828</idno>
+            <idno type="STC">Thomason E681_7</idno>
+            <idno type="STC">ESTC R206784</idno>
+            <idno type="EEBO-CITATION">99865890</idno>
+            <idno type="PROQUEST">99865890</idno>
+            <idno type="VID">118143</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88080)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118143)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 105:E681[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The glorious truth of redemption by Jesus Christ, rescued out of the hand or unrighteousnes. Or the doctrine of redemption rightly stated: wherein, 1. All Arminian and Pelagian glosses and absurdities are refuted. 2. All carnal allegations and reasonings silenc'd. 3. All concern'd scriptures seemingly discording, reconcil'd. 4. The doctrine of redemption clearly held forth, according to the harmony of scripture, and analogie of faith. By W.L.</title>
+                  <author>Levitt, William.</author>
+               </titleStmt>
+               <extent>[6], 39, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the Author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653. [i.e. 1652]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The final leaf is blank.</note>
+                  <note>Thomason received his copy 12 November, 1652.</note>
+                  <note>Annotations on Thomason copy: "Nou. 12 1652"; the '3' in the imprint has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Redemption --  Early works to 1800.</term>
+               <term>Arminianism --  Controversial literature --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118143:1"/>
+            <pb facs="tcp:118143:1" rendition="simple:additions"/>
+            <p>The glorious Truth of Redemption <hi>BY</hi> Jeſus Chriſt, Reſcued out of the Hand of UNRIGHTEOUSNES. OR The Doctrine of Redemption rightly ſtated: WHEREIN, <list>
+                  <item>1. All Arminian and Pelagian gloſſes and abſurdities are reſuted.</item>
+                  <item> 2. All carnal allegations and reaſonings ſilenc'd.</item>
+                  <item> 3. All concern'd Scriptures ſcemingly diſcording, reconcil'd.</item>
+                  <item> 4. The Doctrine of Redemption clearly held forth, according to the harmony of Scripture, and Analogie of Faith.</item>
+               </list>
+            </p>
+            <p>By <hi>W. L.</hi>
+            </p>
+            <q>
+               <bibl>Rom. 1. 18.</bibl>
+               <p> 
+                  <hi>For the wrath of God is revealed from heaven, againſt all ungodlineſs and unrighteouſneſs of men, which with-hold the Truth in <g ref="char:V">Ʋ</g>nrighteouſneſs.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>Gal. 1 7. </bibl>
+               <p>
+                  <hi>Which is not another Goſpel, but there are ſome which trouble you, and would pervert the Goſpel of Chriſt.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>2 Pet. 3. 16.</bibl>
+               <p> 
+                  <hi>Among which, ſome things are hard to be underſtood, which they that are unlearned and unſtable, wreſt (as they do other Scriptures) to their own deſtruction.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for the Author, 1653.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:118143:2"/>
+            <pb facs="tcp:118143:2"/>
+            <head>
+               <hi>To the Worſhipful Henry Langley, D<hi rend="sup">r</hi> of Divinity, Canon of Chriſt<g ref="char:EOLhyphen"/>church, and Principal of</hi> Pem<g ref="char:EOLhyphen"/>brook <hi>Colledge in</hi> Oxford.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat undeſerved reſpect thoſe worthleſs Papers of mine which came to your hand received, hath emboldned me to come now a begging to the <hi>Univerſi<g ref="char:EOLhyphen"/>ty:</hi> Although it's ſad to have the Fa<g ref="char:EOLhyphen"/>ther to ſeek when the Child is come in<g ref="char:EOLhyphen"/>to the World; eſpecially to a poor mo<g ref="char:EOLhyphen"/>ther. Yet this is the condition of this poor Infant; which however by Di<g ref="char:EOLhyphen"/>vine
+<pb facs="tcp:118143:3"/>
+Providence having received a Being, yet is both naked and bare; and unleſs countenanc'd, cover'd, and nouriſh'd by your care and charity, it muſt needs remain deſpicable, and caſt out to common <hi>odium.</hi> Shall I therefore commend and commit the care thereof, or rather freely beſtow it on you? This I am ſure of, it will be well provided for, if once under your Roof; and if you as willingly enter<g ref="char:EOLhyphen"/>tain it as I beg: However, let it re<g ref="char:EOLhyphen"/>ceive ſuch accomodation as ſeems beſt in the eys of ſo skilful a Nurſe. I know the <hi>Herods</hi> of our times will be hunting after it; but my care is over, when once under yours.</p>
+            <p>
+               <hi>Sir,</hi> To deal plainly, this poor Pa<g ref="char:EOLhyphen"/>per I know will meet with much oppo<g ref="char:EOLhyphen"/>ſition, therefore I as boldly as humbly
+<pb facs="tcp:118143:3"/>
+tender it to your protection; and as I do it out of that due Reſpect <hi>I</hi> owe to your ſelf<g ref="char:punc">▪</g> ſo <hi>I</hi> alſo aim by this broken and patch'd piece, to prompt and pro<g ref="char:EOLhyphen"/>voke ſome of the able Champions of the Truths of Chriſt, to ſet upon a more learned and perfect Vindication of that precious Truth of Redempti<g ref="char:EOLhyphen"/>on, ſo much prevaricated and adulte<g ref="char:EOLhyphen"/>rated in our days. And give me leave to give you a little encourage<g ref="char:EOLhyphen"/>ment to own it; although a <hi>Mephi<g ref="char:EOLhyphen"/>boſheth,</hi> yet it's of the Royal Race, nobly deſcended, as legitimate as any, begotten by the immortal ſeed of holy Scripture, able to derive its Pedigree from and before <hi>Adam</hi> was; There<g ref="char:EOLhyphen"/>fore ſetting aſide all excuſes, I once more entreat its entertainment, or elſe I muſt ſhameleſly leave it at your
+<pb facs="tcp:118143:4"/>
+Dore, to the mercy of the wide world; yet comforted, that there cannot be leſs pity harboured in your heart, then was found in <hi>Pharaoh</hi>'s Daughter. I crave leave to pay that old debt, due ever ſince I knew you, viz.</p>
+            <closer>
+               <signed>William Levitt,</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:118143:4"/>
+            <head>The glorious Truth of Redemption <hi>By</hi> Jeſus Chriſt, Reſcued out of the Hand of UNRIGHTEOUSNES.</head>
+            <epigraph>
+               <bibl>1 COR. 15. 22.</bibl>
+               <q>
+                  <hi>For as in</hi> Adam <hi>all dy, even ſo in Chriſt ſhall all be made alive.</hi>
+               </q>
+               <bibl>ROM. 5. 18.</bibl>
+               <q>Likewiſe, as by the offence of one, the fault came on all men to con<g ref="char:EOLhyphen"/>demnation; ſo by the juſtifying of one, the benefit abounded to all men, to the juſtification of life.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">F</seg>Rom theſe, and ſuch like Scriptures, men of corrupt and unſtable minds, with <hi>Pel<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gius, Armi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ius,</hi> and others in all Ages, have drawn corrupt and unſou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d concluſions; ſo that that grand Goſpel Truth of Redemption by Jeſus Chriſt, as held forth in the holy Scriptures, wherein the honour of God, and comfort of his Saints are pri<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cipally concern<g ref="char:EOLhyphen"/>ed, is ſo exceedingly prevaricated, that little of either ap<g ref="char:EOLhyphen"/>peareth:</p>
+            <p>
+               <pb facs="tcp:118143:5"/>
+For the removal of which evils, take notice of the fond conceits of ſome, yea too many in our times, wreſted from ſuch Scriptures.</p>
+            <p n="1">1. Some hence affirm (and that boldly)<g ref="char:punc">▪</g> that Jeſus Chriſt came to ſave all men with an eternal ſalvation.</p>
+            <p n="2">2. Others there are conclude hence, that Jeſus Chriſt by his death, freed all men from the guilt of <hi>Adam</hi>'s tranſ<g ref="char:EOLhyphen"/>greſſion, and conſequently from the puniſhment due there<g ref="char:EOLhyphen"/>unto, which (as they ſay) is only temporal, from <hi>Gen.</hi> 3. 19. <hi>Duſt thou art, and to the duſt thou ſhalt return.</hi>
+            </p>
+            <p n="3">3. A third ſort there are (and of theſe although very many, yet more skilful to deceive) who hence publikely teach, that Jeſus Chriſt by his death hath diſcharged all mankinde from the eternal condemnation due to <hi>Adam</hi>'s tranſgreſſion; yea, and many of them (although of as ſtrong abilities as plauſible converſations yet) make it their ſtudy to maintain this Brat of their own breeding, although they ſtretch both their brains as well as the Scriptures, up<g ref="char:EOLhyphen"/>on the Tenters of their opinion, till they rend both aſunder.</p>
+            <p>The unſoundneſs of all which opinions, with their ſe<g ref="char:EOLhyphen"/>veral abſurdities, are clearly manifeſted in the enſuing diſ<g ref="char:EOLhyphen"/>courſe, and the doctrine of Redemption rightly held forth, as founded upon the holy Scriptures; both Prophets and Apoſtles, nay Chriſt himſelf: all agreeing in this neceſſary truth, that neither the Death, Reſurrection, Aſcenſion, or Interceſſion of Chriſt, ever was or ſhall be beneficial to any, but ſuch as lay hold upon him by a true and lively faith; according to <hi>John</hi> 3. 15, 16. <hi>So God loved the world, that he gave his only begotten Son, that whoſoever believeth in him, ſhould not periſh, but have everlaſting life.</hi>
+            </p>
+            <p>Where we ſee,</p>
+            <list>
+               <item>1. The moving cauſe, God's love.</item>
+               <item>2. That Jeſus Chriſt was the Father's free gift.</item>
+               <item>3. The extent of God's love to the world, terminated in the Believers, who only have benefit by Chriſt: Yea,
+<pb n="3" facs="tcp:118143:5"/>
+and this an act of free grace, when he might juſtly have ſent all to hell.</item>
+            </list>
+            <p>Come we now to the opinions themſelves.</p>
+            <p>For the firſt, That Jeſus Chriſt came to ſave all men with an eternal ſalvation, as well from actual as original ſin. This is ſo point blank againſt the very current of Scripture, that few or none in their right ſenſes dare owne it; the Authors thereof being (for the moſt part) either ignorant or profane men not at all acquainted with the holy Scriptures, which ſpeak a clean contrary language; as <hi>John</hi> 5. 29. <hi>And they ſhall come forth that have done good, to the reſurrection of life; and they that have done evil, to the reſurrection of condemnation.</hi> So alſo <hi>Matth.</hi> 25. 34. <hi>Then ſhall the King ſay to them on the right hand, Come ye bleſſed of my Father, Inherit the Kingdom prepared for you from the foundation of the world,</hi> &amp;c. <hi>v.</hi> 41. <hi>Then ſhall he ſay to them on the left hand, Depart from me ye curſed, into everlaſting fire,</hi> &amp;c. So alſo <hi>Mark</hi> 16. 16. and hundreds of Scriptures more: But this not worth time, Come to the ſecond.</p>
+            <p>That Jeſus Chriſt by his death hath freed all men from the guilt of <hi>Adam</hi>'s tranſgreſſion, which they ſay, pro<g ref="char:EOLhyphen"/>cured only a Temporal Death; from that in <hi>Gen.</hi> 3. 19. <hi>Duſt thou art, and to the Duſt thou ſhalt return.</hi>
+            </p>
+            <p>But this being as ridiculous as the former, I ſhall not ſpend much time upon it; for certainly, all that know any thing of God as they ought, know him to be infinite and eternal, both in his Eſſence and Attributes; and that the breach of his Law muſt inevitably procure and deſerve eternal wrath; which <hi>Adam</hi> himſelf had found ſure enough, had not he by faith laid hold upon Jeſus Chriſt, that Tree of Life. But that the vanity of this conceit may appear to all men, I ſhall leave them to conſider an Argu<g ref="char:EOLhyphen"/>ment or two.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>1</label>
+               <hi>That which is the portion of the godly as well as wicked, of ſaints as well as ſinners, cannot be the only puniſhment of ſin;</hi>
+            </p>
+            <p>
+               <pb n="4" facs="tcp:118143:6"/>
+               <hi>But Temporal death is the portion of godly as well as wicked, of Saints as well as ſinners;</hi>
+            </p>
+            <p>Ergo, <hi>Temporal death is not the only reward and puniſhment of ſin.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>2</label>
+               <hi>If Temporal death had been the only reward and pu<g ref="char:EOLhyphen"/>niſhment due to Original ſin, then Chriſt need not to have dyed at all, to free us from it; every man had been then able to pay his owne debt.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>1</label>
+               <hi>Where the effects remain the cauſe is not removed, But the effects of</hi> Adam's <hi>tranſgreſſion remain to this day;</hi>
+            </p>
+            <p>Ergo, <hi>The cauſe</hi> (viz.) <hi>the tranſgreſſion is not taken away.</hi>
+            </p>
+            <p>
+               <hi>If the guilt of</hi> Adam<hi>'s tranſgreſſion be taken away,</hi>
+            </p>
+            <p n="1">1. How is it we dy daily, eſpecially if this were the on<g ref="char:EOLhyphen"/>ly puniſhment due to it; as the opinion ſaith it is?</p>
+            <p n="2">2. Why do women ſtill travel in pain and ſorrow?</p>
+            <p n="3">3. What's the reaſon of all diſeaſes, aches, pains, that befal us in this life? Do not men ſtill live by labour? Doth not the ground naturally produce Thorns and Thiſtles?</p>
+            <p n="4">4. Whence are all our actual Tranſgreſſions? Are they not branches of that old ſtem? If the Tree had been dig<g ref="char:EOLhyphen"/>ged up by the roots ſo many thouſand yeers ago, and caſt into the fire, ſurely it would not bring forth fruit ſo plenti<g ref="char:EOLhyphen"/>fully, as by woful experience we ſee this doth to this day. But to paſs this alſo.</p>
+            <p>The third opinion being the maſter-piece about which the curious Artiſts of our times are ſo much buſied, both to prop and paint: I ſhall ſpeak more largely to. In the unmasking and refuting whereof, the other two muſt needs fall to the ground; <hi>viz.</hi> That Jeſus Chriſt hath freed all mankinde by his death, from the eternal condemnation due to <hi>Adam</hi>'s ſin, and hath ſet all men into a ſtate of inno<g ref="char:EOLhyphen"/>cency and integrity.</p>
+            <p>The abſurdities attending this error are not few; it's a
+<pb n="5" facs="tcp:118143:6"/>
+many headed monſter, the belly whereof is ready to burſt with its prodigious propagations; ſome of which I ſhall lay down by way of Argument, as followeth.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>1</label>
+               <hi>That expoſition that is unreaſonable, is falſe;</hi> 
+            </p>
+            <p>
+               <hi>But this expoſition of Scripture is unreaſonable;</hi>
+            </p>
+            <p>Ergo, <hi>Falſe.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>2</label>
+               <hi>That Doctrine that deſtroys the harmony of Scripture is falſe;</hi>
+            </p>
+            <p>
+               <hi>But this Doctrine deſtroys the harmony of Scripture;</hi>
+            </p>
+            <p>Ergo, <hi>Falſe.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>3</label>
+               <hi>That Doctrine that is contrary to the analogie of Faith, is erroneous;</hi>
+            </p>
+            <p>
+               <hi>But this Doctrine is contrary to the analogie of Faith;</hi>
+            </p>
+            <p>Ergo, <hi>Erroneous.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>4</label>
+               <hi>That Doctrine that magnifies the creature, and vilifies the blood of Chriſt, is falſe;</hi>
+            </p>
+            <p>
+               <hi>But this Doctrine magnifies the creature, and vili<g ref="char:EOLhyphen"/>fies the blood of Chriſt;</hi>
+            </p>
+            <p>Ergo, <hi>Falſe.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>5</label>
+               <hi>That Doctrine that derogates, detracts, or denies the omnipotency of God, is erroneous and blaſphemous;</hi>
+            </p>
+            <p>
+               <hi>But this Doctrine detracts from, and denies the omni<g ref="char:EOLhyphen"/>potency of God;</hi>
+            </p>
+            <p>Ergo, <hi>Falſe and blaſphemous.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>6</label>
+               <hi>That Doctrine that tramples under foot the eternal De<g ref="char:EOLhyphen"/>cree of God, and denies his Soveraignty over the crea<g ref="char:EOLhyphen"/>ture, is heretical and blaſphemous;</hi>
+            </p>
+            <p>
+               <hi>But this Doctrine tramples under foot the eternal Decree of God, and denies his Soveraignty over the creature;</hi>
+            </p>
+            <p>Ergo, <hi>Heretical and blaſphemous.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>7</label>
+               <hi>That Doctrine that holds forth ſalvation by a law of works, and not of grace, is falſe;</hi> 
+            </p>
+            <p>
+               <hi>But this Doctrine holds forth ſalvation by a law of works,</hi> &amp;c.</p>
+            <p>Ergo, <hi>Falſe.</hi>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:118143:7"/>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>8</label>
+               <hi>That Doctrine that deſtroys the end of Chriſts coming in the fleſh, is erroneous; But this Doctrine deſtroys the end of Chriſt's coming in the fleſh;</hi>
+            </p>
+            <p>Ergo, <hi>Erroneous.</hi>
+            </p>
+            <p>
+               <hi>1. It's <hi>
+                     <g ref="char:V">Ʋ</g>nreaſonable.</hi> For,</hi>
+            </p>
+            <p n="1">1. Hereby Chriſt becomes an half Saviour, ſhedding his blood for the Original ſin of millions of men that pe<g ref="char:EOLhyphen"/>riſh in their actual Tranſgreſſions: Whereas <hi>the blood of Chriſt clenſeth from all ſin,</hi> He never purchaſes half a <note place="margin">1 Iohn 1. 7.</note> pardon for any. <hi>If any man eat of this Bread, he ſhall live for ever;</hi> now the bread that Chriſt gives, <hi>is his fleſh:</hi> John 6. 51. His Redemption is an <hi>everlaſting Redemption.</hi> Heb. 9. 12.</p>
+            <p n="2">2. <hi>Unreaſonable,</hi> to think that Jeſus Chriſt ſhould pay as great a price for thoſe that periſh, as for his own peo<g ref="char:EOLhyphen"/>ple; for a company of damned wretches, preordained <hi>to condemnaetion, before the world was.</hi> Will any man give a <note place="margin">Jude 4.</note> thouſand pounds for a trifle, a gewgaw, a Bartholomew Baby? One drop of Chriſt's blood being worth a thou<g ref="char:EOLhyphen"/>ſand worlds, ſurely he would not ſhed it to ſo little purpoſe.</p>
+            <p n="3">3. <hi>Unreaſonable;</hi> For if the end of Chriſt's death were only to free men from the guilt of <hi>Adam</hi>'s tranſgreſſion; By what means then are the actual ſins of the Elect. done away? Chriſt <hi>died but once;</hi> and <hi>without ſhedding of blood there can be no remiſſion,</hi> Heb. 9. 22. <note place="margin">Rom. 6. 10. Heb. 9. 28.</note>
+            </p>
+            <p>If any ſhall reply, the Elect, or thoſe that are ſaved, are ſaved by Faith. I grant that, but yet give them to know, Faith is only inſtrumental, not meritoricus; the blood of Chriſt being the proper object of Faith; which if only ſhed to acquit from Original guilt, then our Faith becoms <note place="margin">Rom. 3. 35.</note> of no effect, <hi>Rom.</hi> 3. 3.</p>
+            <p n="4">4. <hi>Unreaſonable,</hi> Becauſe then Original ſin is pardoned
+<pb n="7" facs="tcp:118143:7"/>
+without Faith; we know as all little children are uncapa<g ref="char:EOLhyphen"/>ble of that grace, ſo thouſand thouſands of men in the world are deſtitute of it alſo; yet the Scripture tells us, that <note place="margin">2 Theſ. 3, 2:</note> except the blood of Chriſt be drunk by Faith, it cannot profit; <hi>John</hi> 6. 53.</p>
+            <p n="5">5. <hi>Unreaſonable,</hi> Becauſe it derogates from the nature of Chriſt's blood; for whom he pardons, he purifies: <hi>His blood clenſeth from all ſin;</hi> therefore it's impoſſible for any man to periſh for whom his blood is ſhed: for <hi>whom he juſtifies, he ſanctifies; yea, and glorifies:</hi> Rom. 8. 30.</p>
+            <p>
+               <hi>2. <hi>It croſſes and deſtroys the har<g ref="char:EOLhyphen"/>mony of Scripture.</hi> For,</hi>
+            </p>
+            <p n="1">1. The Scripture tells us, that no man can receive be<g ref="char:EOLhyphen"/>nefit by the blood of Chriſt, but thoſe that drink it by faith, <hi>John</hi> 6. 53. as meat cannot nouriſh except we eat it, ſo none can receive either life or ſtrength by the blood or fleſh of Jeſus Chriſt, that eats and drinks it not by faith.</p>
+            <p n="2">2. That without Faith and Repentance there is no re<g ref="char:EOLhyphen"/>miſſion, <hi>Acts</hi> 3. 19.</p>
+            <p n="3">3. That all men are born, yea the beſt are conceived and born in ſin, as holy <hi>Iob</hi> and <hi>David</hi> both confeſs, <hi>Iob</hi> 15. 14. <hi>&amp;</hi> 25. 4. <hi>Pſalm</hi> 51. 5. That even the people of God were ſomtime the children of wrath as well as others, <hi>Eph.</hi> 2. 3. That all men by nature are dead in treſpaſſes and ſins, <hi>Eph.</hi> 2. 1. 5.</p>
+            <p n="4">4. That except a man be born again of Water and the Spirit, he cannot enter into the kingdom of God, <hi>Iob.</hi> 3. 3.</p>
+            <p n="5">5. That Faith is the gift of God <hi>Eph.</hi> 2. 8. <hi>Col.</hi> 2. 12.</p>
+            <p n="6">6. That we are not able of our ſelves to think a good thought, 2 <hi>Cor.</hi> 3. 5. But this Doctrine contrary to the whole Tenure of Scripture, tells us, that thouſands go to heaven, never capable of Faith; as all children, nay of
+<pb n="8" facs="tcp:118143:8"/>
+very Heathens and Pagans, &amp;c. That we come into the world as innocent as <hi>Adam</hi> before the Fall; therefore no need of Faith or Repentance, or being regenerate; That we have Free-will to ſtand or fall; to be ſaved, or damned; That Faith is in our own power, &amp;c.</p>
+            <p n="7">7. Although ſome Scriptures ſeem to favour theſe Opinioniſts, yet others are direct oppoſite; ſo that they muſt ſet them together by the ears, or elſe they cannot poſſibly have any ſhaddow of ſupport from them: To inſtance, One Scripture ſaith, <hi>Chriſt dyed for all;</hi> as in a right interpretation he may be ſaid to do; as 2 <hi>Cor.</hi> 5. 14, 15. Another ſaith, <hi>Though the children of Iſrael be as the ſand, yet but a remnant ſhall be ſaved: Rom.</hi> 9. 27. and while one Text ſaith, <hi>Chriſt is the Saviour of the world, Iohn</hi> 4. 42. another ſaith, <hi>The whole world lies in wickedneſs;</hi> 1 <hi>Iohn</hi> 5. 19. that <hi>he is not ſent but to the loſt ſheep of Iſrael; Matth.</hi> 15. 24. that <hi>he lays down his life for his ſheep; Iohn</hi> 10. 15. yea, that <hi>certain men are pre-ordained to condemnation; Iude</hi> 4.</p>
+            <p>
+               <hi>3. <hi>Contrary to the Analogie of Faith;</hi> For,</hi>
+            </p>
+            <p n="1">1. By Faith we believe that all men are born the children of wrath, dead in treſpaſſes and ſins.</p>
+            <p n="2">2. That God hath ſent his Son Jeſus Chriſt into the world, that whoſoever believes in him, might not periſh, but have everlaſting life.</p>
+            <p n="3">3. That ſalvation is of Free grace, not from any moving cauſe in us.</p>
+            <p n="4">4. That God is omnipotent, and all-ſufficient.</p>
+            <p n="5">5. That ſome are elected by God to be heirs of glory, ſome rejected, and pre-ordained to deſtruction before the world was.</p>
+            <p n="6">6. That thoſe for whom Chriſt dyed, for them alſo he
+<pb n="9" facs="tcp:118143:8"/>
+roſe again; and whom he juſtifies with his blood, he ſanctifies with his Spirit, and them alſo glorifies.</p>
+            <p n="7">7. That all men at the laſt day ſhall riſe again, ſome to the reſurrection of life, others to the reſurrection of condemnation.</p>
+            <p>How contradictory this Doctrine is to the faith of Gods elect, I ſhall leave all to judge. If Chriſt hath freed all from Original guilt, then we are not born dead in treſpaſ<g ref="char:EOLhyphen"/>ſes: If none but Believers have benefit by Chriſt, then he dyed not for all; If ſalvation be of grace, then there's no place for free-will: If God be omnipotent, he is able to ſave all whom he pleaſes; But this Doctrine tells us many periſh that God would ſave: If ſome elected, and ſome rejected, then Chriſt dyed not for all; If he dyed for all, he roſe again for all, and brings all to glory: If ſome men ariſe to the reſurrection of life, others of condemnation<g ref="char:punc">▪</g> then this Doctrine muſt needs be palpably erroneous.</p>
+            <p>
+               <hi>4. <hi>It magnifies the creature, and vi<g ref="char:EOLhyphen"/>lifies the blood of Chriſt exceed<g ref="char:EOLhyphen"/>ingly;</hi> For,</hi>
+            </p>
+            <p n="1">1. Hereby we become our own Saviours; for if we be all cleared from original guilt, then come we into the world, holy, innocent, and perfect as <hi>Adam.</hi>
+            </p>
+            <p n="2">2. Hence muſt needs follow the Doctrine of Free-will, that as the deſtruction of the wicked is of themſelves, ſo alſo the ſalvation of the juſt is likewiſe of themſelves; it being in our own power (as this hereſie holds forth) to be ſaved or damned: we muſt needs have power in our ſelves alſo to believe and repent; and ſo ſalvation is ours by a Law of works, not of grace.</p>
+            <p>
+               <hi>2. <hi>It vilifies the Blood of Christ:</hi> For,</hi>
+            </p>
+            <p n="1">1. Hereby Chriſt is held forth an half Saviour; ſheds
+<pb n="10" facs="tcp:118143:9"/>
+his blood for millions of men and women in the world that periſh everlaſtingly, to whom it becomes vain; yea for thouſands pre-ordained to condemnation.</p>
+            <p n="2">2. Hence is the blood of Chriſt held forth as an unholy thing, purchaſing pardon for thouſands whom it never pur<g ref="char:EOLhyphen"/>ges; juſtifying thoſe whom it ſanctifies not; he is made ſin for many to whom he becomes not righteouſneſs; a Saviour to ſuch as for whom he is not their Advocate nor Interceſſor: Contrary to the whole tenure of Scripture; as <hi>Rom.</hi> 8. 28, 29, 30. <hi>Tit.</hi> 2. 14. <hi>Acts</hi> 20. 28.</p>
+            <p>
+               <hi>5. <hi>It derogates, detracts from, and utterly denies the omnipo<g ref="char:EOLhyphen"/>tency of God;</hi> For,</hi>
+            </p>
+            <p>If God would ſave many that periſh, or all that periſh, and cannot; as this Doctrine would have us believe, then where is his omnipotence? and if not omnipotent, where is his eſſence? therefore they may as well tell us (like down-right Atheiſts) there is no God; and ſo appear more palpable fools than that mention'd in <hi>Pſalm</hi> 14. 1. who only ſaith ſo in his heart, theſe proclaim it in their words, and teach men ſo. <note place="margin">Pſalm 53. 1.</note>
+            </p>
+            <p>
+               <hi>6. <hi>That this doctrine tramples under foot the eternal Decree of God, appears plainly;</hi> For,</hi>
+            </p>
+            <p n="1">1. If God hath elected and choſen ſome to be veſſels of Honour, from or before the foundation of the world, and pre-ordained others to deſtruction, then the blood of Chriſt was not ſhed equally for all; and if for all univer<g ref="char:EOLhyphen"/>ſally,
+<pb n="11" facs="tcp:118143:9"/>
+indifferently, and indefinitely, then the Decree of God is of no effect: Certainly Jeſus Chriſt ſhed not his blood for thoſe whom God never purpoſed to ſave: But that God hath elected ſome, and paſſed by others, is plain, <hi>Rom.</hi> 8. 28, 29, 30. <hi>That he hath predeſtinated ſome to be his adopted ones, through Jeſus Chriſt in himſelf, ac<g ref="char:EOLhyphen"/>cording to the good pleaſure of his own Will; according to the purpoſe of him that worketh all things according to the counſel of his own Will. Eph.</hi> 1. 5, 11. <hi>Rom.</hi> 9. 11. <hi>Eph.</hi> 3. 11. 2 <hi>Tim</hi> 1. 9. <hi>Mat.</hi> 24. 22, 31. <hi>Mark</hi> 13. 20, 22. <hi>Rom.</hi> 8. 13. <hi>&amp;</hi> 11. 5, 7. 1 <hi>Pet.</hi> 1. 2. 2 <hi>Pet.</hi> 1. 10. <hi>Acts</hi> 13. 48. <hi>Jude</hi> 4. All which places of Scripture, and many more, do ſo clearly hold forth the doctrine of Pre<g ref="char:EOLhyphen"/>deſtination, Election, Adoption, and Reprobation, as that if Sathan had not blinded the eyes of ſuch men, it were impoſſible for them to withſtand ſo clear a light.</p>
+            <p>
+               <hi>7. <hi>This Doctrine utterly denies Gods Soveraignty over the Creature;</hi> For,</hi>
+            </p>
+            <p n="1">1. If the Lord hath not power of his own pleaſure and Free-will, without any moving cauſe in us, of his owne free grace and love, to make ſome veſſels of honour, and ſome of diſhonour; ſome on whom he may declare the riches of his grace, and others to make his wrath and power known; if he have not power to have mercy on whom he will, and to reject others, according to <hi>Rom.</hi> 9. 15. where is his Soveraignty over the Creature? But certainly, as the Potter hath power over the clay, ſo hath the Lord over all his creatures; as is clearly held forth in <hi>Rom.</hi> 9. 21, 22.</p>
+            <p n="2">2. If men of themſelves have free-will, then the will of God is not only reſiſted, but utterly rejected; contrary to
+<pb n="12" facs="tcp:118143:10"/>
+the priviledge the Maſter hath of his ſervant, the power a Father hath over his children, and contrary to the great ſoveraignty of God, whoſe will indeed is uncontrollable and irreſiſtable; <hi>viz.</hi> his decreeing Will; <hi>what he deter<g ref="char:EOLhyphen"/>mines, ſhall come to paſs: Pſal.</hi> 148. 6. <hi>Jer.</hi> 5. 22. <hi>Luk.</hi> 22. 22. <hi>Acts</hi> 2. 23. <hi>Rom.</hi> 9. 19. <hi>Ezek.</hi> 12. 25.</p>
+            <p>
+               <hi>8. <hi>That this Doctrine deſtroys the very end of Chriſts coming in the Fleſh, appears;</hi> For,</hi>
+            </p>
+            <p>The main end of Chriſts coming in the fleſh, was, to deſtroy the body of ſin, the works of the Divel; his blood being the purchaſe of his Church, and applicable to none <note place="margin">Rom. 6. 6. Acts 20. 28.</note> but Believers, ſuch as drink it by faith: <hi>Titus</hi> 2. 14. <hi>Who gave himſelf for us, to redeem us from all iniquity, and purge us, to be a peculiar people to himſelf, zealous of good works:</hi> So that for whom he dies, he redeems as well from all iniquity, as death; he never procures pardon but for his purged ones, whom he purifies with his blood; he came not only to ſave from original, but actual tranſgreſſi<g ref="char:EOLhyphen"/>on, he being a perfect Saviour.</p>
+            <p>His end was not only <hi>to be made ſin for us,</hi> but <hi>that we might be made righteous in him: For thoſe for whom he</hi> 
+               <note place="margin">Rom. 3. 25.</note> 
+               <hi>died, for them alſo he roſe again: Them whom he juſtifies</hi> 
+               <note place="margin">1 Pet. 2. 24.</note> 
+               <hi>with his blood, he ſanctifies with his Spirit, and them alſo glorifies.</hi> But this opinion tells us, he dyed for millions <note place="margin">2 Cor. 5. 21.</note> that never partake in his Reſurrection, Interceſſion; who he neither ſanctifies, nor glorifies; and ſo deſtroys the main end of all he hath done and ſuffered for the ſons of m<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n.</p>
+            <p>Come we now to anſwer thoſe Objections and Allegations of men contrary minded.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label>
+               <hi>If this be not the meaning of ſuch Scriptures, that</hi>
+            </p>
+            <p>
+               <pb n="13" facs="tcp:118143:10"/>
+               <hi>Chriſt dyed for all mankinde, what then is their right ſenſe.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> For that 1 <hi>Cor.</hi> 15. 22. <hi>As in</hi> Adam <hi>all dy, even ſo in Christ ſhall all be made alive;</hi> it hath no relation at all to the Doctrine of Redemption, but of the Reſurrection, the Apoſtle diſcourſing upon that ſubject: and ſo it's true, as in <hi>Adam</hi> all dy, ſo by the power of Chriſt's death and reſur<g ref="char:EOLhyphen"/>rection ſhall all be raiſed out of the grave, he being the firſt fruits of thoſe that ſleep: Nevertheleſs, <hi>ſome ſhall ariſe to the reſurrection of life, others to the reſurrection of condemnation: John</hi> 5. 29. So that ſome are ſo far from being made alive to eternity, that they ariſe to receive the ſentence and doom of everlaſting death and torment.</p>
+            <p>But ſuppoſe this place had intended the doctrine of Re<g ref="char:EOLhyphen"/>demption by Jeſus Chriſt, as that <hi>Rom.</hi> 5. 18. and other Scriptures do, ſpeaking in general terms; yet we muſt take heed of making every particular Scripture its own Inter<g ref="char:EOLhyphen"/>preter; for no Scripture is of private interpretation; the ſpirits of the Prophets being ſubject to the Prophets, 2 <hi>Peter</hi> 1. 20, therefore we muſt compare one Scripture with another, leſt we utterly deſtroy that ſweet and holy harmony that is to be found even in Scriptures ſeemingly oppoſite one to the other; and then ſuch places will hold forth this truth, that as all that periſh, periſh in <hi>Adam;</hi> ſo all that are ſaved, are ſaved by Chriſt: or, as all that dy, <hi>viz.</hi> eternally dy in <hi>Adam;</hi> ſo all that live, <hi>viz.</hi> eternally live in and by Chriſt: For all do not dy eternally in <hi>Adam,</hi> ſo all do not live eternally by Chriſt: Although there be ſufficiency in the blood of Chriſt for ten thouſand worlds, yet it becomes efficacious to none but ſuch as lay hold up<g ref="char:EOLhyphen"/>on him by faith; his elect, his choſen ones before the world began: Such who are given to him by the Father out of the world, who are but a remnant, a little flock, compared with thoſe that periſh: The intent of ſuch Scri<g ref="char:EOLhyphen"/>ptures being to declare the way and means of ſalvation and damnation; not the number of thoſe that are either ſaved
+<pb n="14" facs="tcp:118143:11"/>
+or periſh: the miſtake lying chiefly in the miſ-interpreta<g ref="char:EOLhyphen"/>tion of the word <hi>[all]</hi> and <hi>[world]</hi> which are in Scri<g ref="char:EOLhyphen"/>pture diverſly to be accepted; as appears in the enſuing diſcourſe. <hi>All,</hi> in Scripture often put for <hi>many;</hi> and <hi>few,</hi> for <hi>none;</hi> as in <hi>Phil.</hi> 2. 21. All <hi>ſeek their own things, but</hi> none <hi>the things of Christ;</hi> whereas (bleſſed be God) there are many that do principally ſeek the things of Chriſt, not their owne.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label>
+               <hi>But if ſome be Elect, and ſome Reprobate, how are mens deſtruction ſaid to be of themſelves?</hi> as in <hi>Hoſ.</hi> 13. 9. 2 <hi>Pet.</hi> 2. 1.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>1</label> Becauſe God gave us at firſt power in <hi>Adam</hi> to ſtand,  which we having wilfully loſt, the Lord may juſtly charge us with the guilt of our owne blood; for all our actual tranſgreſſions and rebellions, are fruits and effects of that original pollution.</p>
+            <p n="2">2. By reaſon there is in all that periſh, a deſperate heart of impenitency and unbelief, implacably bent againſt God deſpiſing and rejecting all means of grace and ſalva<g ref="char:EOLhyphen"/>tion, men of reprobate minds, who ſhall never be able to ſay at laſt, at the great and general day, Lord, I would have believed and repented, but thy Decree of Reprobation kept me back; for ſuch men know,</p>
+            <p n="1">1. That they were ignorant whether they were in the compaſs of that Decree.</p>
+            <p n="2">2. Their own Conſciences ſhall tell them, although it was their duty to wait upon God in the uſe of all means of grace, and although they ſate many yeers under the drop<g ref="char:EOLhyphen"/>pings of Divine diſpenſations, yet they utterly abhorred all means and opportunities of grace whatſoever, and choſe rather to periſh, then to be ſaved by Chriſt: For this is to be noted, that Scripture ſaith not, that God gives repro<g ref="char:EOLhyphen"/>bate minds to any, but that he gives them over to repro<g ref="char:EOLhyphen"/>bate minds; which all men naturally are of: God infu<g ref="char:EOLhyphen"/>ſes not ſin, but reprobates.</p>
+            <p n="1">1. By permiſſion, ſuffering men to go on in their ſins.</p>
+            <p n="2">
+               <pb n="15" facs="tcp:118143:11"/>
+2. By ſubduction, withdrawing or with-holding the gifts and graces of his Spirit, he being a free Agent, and not bound to beſtow his graces to any; therefore whom he intends and purpoſes to ſave, to them he gives the grace of faith and repentance, others he paſſes by; it being his Prerogative Royal, to have mercy on whom he will have mercy; it being an effect of mercy that any at all are ſaved.</p>
+            <p n="3">3. By Tradition, delivering men up to the hardneſs of their own hearts, and power of their own luſts; ſaying to the filthy, be thou filthy ſtill; and to the unholy, be thou unholy ſtill; <hi>Rev.</hi> 22. 11. and this a juſt judgement of God upon them.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> If it be not in mens power to repent and believe, why  is impenitency or unbelief charged upon them as their ſin?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>1</label> As before, God gave us power to ſtand, after he had  created us in a holy and innocent eſtate.</p>
+            <p n="2">2. Unbelief is a ſin hereditary from our firſt parents.</p>
+            <p n="3">3. As formerly, God hardens no man, otherwiſe then in a way of judgement, giving men over to their own hardneſs.</p>
+            <p n="4">4. The Lord affords ſufficient means to thoſe that pe<g ref="char:EOLhyphen"/>riſh, as to thoſe that are ſaved; and where he ordains the end, he ordains the means.</p>
+            <p n="5">5. Such is God's ſoveraignty over the creature, that as the wind blows where it liſteth, ſo he gives his graces to whom he pleaſeth, not being bound to any.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> But is it not ridiculous for miniſters to call upon men to  repent and believe, it not being in their power?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> No, for 1. All that obtain the grace of faith and repen<g ref="char:EOLhyphen"/>tance,  ordinarily come to it in the uſe of Ordinances; Faith coming by the hearing of the word. When God ordains the end, he (as I ſaid before) ordains the means; yea, the Lord with the command to believe, &amp;c. gives power; as to <hi>Lazarus,</hi> when he call'd him forth of the grave, he gave him power to riſe: the Lord ordinarily ac<g ref="char:EOLhyphen"/>companying
+<pb n="16" facs="tcp:118143:12"/>
+his word with his Spirit; without which, <hi>Paul</hi> and <hi>Apollo</hi> may both plant and water in vain.</p>
+            <p n="2">2. God's elect people, whom he intends and purpoſes to ſave, and for whoſe ſake the word is preached, before converſion, lie in the common quarry of mankind; now its the miniſters duty to call upon all to repent and believe, he knowing that to be the way to heaven, but not know<g ref="char:EOLhyphen"/>ing ſo well the ſecret Decree of God, who ſhall be ſaved, who not; who ſhall be veſſels of honour, who of diſho<g ref="char:EOLhyphen"/>nour; calls upon all, that ſo all that belong to the election of grace, may be brought over to Jeſus Chriſt.</p>
+            <p n="3">3. Hereby wicked men are left without excuſe, while they (ignorant of God's purpoſe) wilfully periſh in reject<g ref="char:EOLhyphen"/>ing and refuſing the tenders and offers of grace, indefinitely held out to them as well as others.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label>
+               <hi>How can God be ſaid to will the ſalvation of all, accord<g ref="char:EOLhyphen"/>ing to</hi> 1 Tim. 2. 4. <hi>if he have elected ſome only, and re<g ref="char:EOLhyphen"/>jected others?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>1</label> Although it cannot be properly ſaid that God hath two Wills, as in reference to himſelf, or in himſelf, his Will  being entire; yet foraſmuch as part of his Will is reveal<g ref="char:EOLhyphen"/>ed, and part kept ſecret, according to our capacities, we may ſay there is a revealed and a ſecret Will of God, or a declaring and a decreeing Will of God; now the tender of grace being univerſal, all men ought in point of duty to wait upon God in his Ordinances, he affording like means to the reprobate as to the elect he may well be ſaid to Will the ſalvation of all: Hence are the ungodly left without excuſe; for although the decreeing will of God cannot be reſiſted, yet his declaring will is reſiſted every day by every ſin we commit.</p>
+            <p n="2">2. For that there is a ſufficient price paid for all, though it become ineffectual to many through unbelief.</p>
+            <p n="3">3. Becauſe God gave us power in <hi>Adam</hi> to ſtand, which we wilfully loſt.</p>
+            <p n="4">4. The holy Ghoſt in ſuch Scriptures ſpeaks the lan<g ref="char:EOLhyphen"/>guage
+<pb n="17" facs="tcp:118143:12"/>
+of the hearts and conſciences of wicked men, who at laſt ſhall juſtifie the proceedings of God againſt them, and clearly confeſs their deſtruction to be of themſelves; they being privie to that implacable hatred they had while opportunities of grace laſted, both againſt God, his meſſen<g ref="char:EOLhyphen"/>gers, and all means and tenders of grace; all mouths ſhall then be ſtopt.</p>
+            <p n="5">5. Whereas ſome Scriptures hold forth that God wills the ſalvation of all (as in the foregoing ſenſe he doth) yet others ſay, he hath elected ſome, and paſſed by others; therefore ſuch interpretation of Scripture ought to be by comparing one with another, as may maintain the harmo<g ref="char:EOLhyphen"/>ny of both: However, we may conclude this as an hereſie of the higheſt magnitude, to ſay poſitively, God wills the ſalvation of any whom he doth not bring to glory; For, this argues impotency in God, not omnipotence: There<g ref="char:EOLhyphen"/>fore I argue from his omnipotency, that he ſaves whomſo<g ref="char:EOLhyphen"/>ever he wills to ſave.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label>
+               <hi>But why did not God give</hi> Adam <hi>a Will as well as Power to ſtand.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>1</label> Becauſe his Will was otherwiſe, that by his fall he might declare the riches of his free grace in and on them that are  faved, and to make his wrath and power known on thoſe that periſh; <hi>Rom.</hi> 9. 22. it being a jewel belonging to his Crown, to his Soveraignty, a part of his Prerogative Royal, to make ſome veſſels of Honour, ſome of diſho<g ref="char:EOLhyphen"/>nour, according to his own good pleaſure; therefore the Apoſtle ſaith enough (a man would think) to all Free-wil<g ref="char:EOLhyphen"/>lers, <hi>That it's not in him that willeth, nor in him that run<g ref="char:EOLhyphen"/>neth, but in God that ſhews mercy,</hi> Rom. 9. 16.</p>
+            <p>2. Such inſolent and ſaucy ſpirits as will thus adventure to queſtion and quarrel God, may as well ask why God made man at all; why he rejected the Angels, and left them irrecoverable from their damnable condition; one of which is able to do more ſervice then ten thouſand men. Why he choſe Iſrael, the people of the Jews, and paſt by
+<pb n="18" facs="tcp:118143:13"/>
+all other Nations; all being the works of his hands, and as much in one people as another to move God to accept them; but the Lord tells them, and all the world, that he loved them, becauſe he loved them; not that they were either more in number, for they were much leſs then other Nations, or that they were better quallifi'd; but, <hi>he loved them, becauſe he loved them;</hi> Deut. 7. 7.</p>
+            <p>This alſo might convince all, that Chriſt died not for all, for certainly, had his blood been ſhed for all (which is the greater) the Lord would never have denyed all other people his ordinances, or refuſed to plant his Name among them, more then among the Jews; nay, add hereunto how many thouſands of the Jews (although choſen out from other Nations) periſhed through unbelief; ſo that <hi>though Iſrael be as the ſand, yet but a remnant ſhall be ſaved;</hi> Rom. 9. 27. But to paſs that.</p>
+            <p>The Apoſtle <hi>Paul</hi> gives an anſwer to ſuch bold ſpirits in their own kind, in <hi>Rom.</hi> 9. <hi>Who art thou (oh man) that replieſt againſt God? Shall the thing formed, ſay to him that formed it, Why haſt thou made me thus? Hath not the Potter power over the clay?</hi> &amp;c. As if he had ſaid, Thou lump of clay, why contendeſt thou with thy Maker? Thou worm, thou inconſiderable part of the drop of a Bucket, Why pleadeſt thou with God?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label>
+               <hi>If men be condemn'd in</hi> Adam, <hi>why is it ſaid, That</hi> this is the condemnation of the world, that light is come in<g ref="char:EOLhyphen"/>to  the world, and men love darkneſs rather then light; <hi>John</hi> 3. 19.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Not that men are not condemn'd in <hi>Adam,</hi> but that they are now more deeply guilty, in deſpiſing the means of  grace and ſalvation; trampling under foot the preciou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> blood of Chriſt as an unholy thing; hence men become two-fold more the children of wrath, adding to their Original, thouſands Actual Tranſgreſſions, againſt ſo great love and light; For where God gives much, he re<g ref="char:EOLhyphen"/>quires much.</p>
+            <p>
+               <pb n="19" facs="tcp:118143:13"/>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label>
+               <hi>But if God hath determined already who ſhall be ſaved, and who damned, what good will all the Preaching in the world do a man? All his hearing, reading, and praying is in vain, if not elected; and if elected, then if he ſhould never hear a Sermon in all his life, yet he ſhould go to heaven.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>1</label> I deny not but God doth ſave ſome whom he hath  choſen by extraordinary means, while many living in the midſt of that means of grace periſh; to teach us, that he is not limitted and tyed to this or that diſpenſation. But for anſwer, know, as I have formerly ſaid, where God ordains the end, he ordains the means; and if thou be an elect veſ<g ref="char:EOLhyphen"/>ſel, thy delight will be to wait upon God in the uſe of means; the ordinances of God being the ordinary way to life and ſalvation: Faith comes by hearing<g ref="char:punc">▪</g> and hearing by the Word of God; <hi>Rom.</hi> 10. 17. and therefore is the Goſpel called the word of Faith, <hi>Rom.</hi> 10. 8.</p>
+            <p n="2">2. Conſider how ſrivolous, ridiculous, and deſtructive to thy ſelf this concluſion of thine is: Knoweſt thou not that man's days are determined, beyond which none paſ<g ref="char:EOLhyphen"/>ſeth, neither do any dy before their time appointed: Thou mayſt as well conclude, well, I know I ſhall not dy be<g ref="char:EOLhyphen"/>fore my time be come, therefore Ile neither care to eat or drink, or to uſe any means to preſerve life; why all the means in the world will not lengthen out my life one hour: Shouldeſt thou do thus, would'ſt thou not be guilty of thine own blood? Yea doubtleſs. Even ſo, while thou concludeſt, becauſe ſome are ordained to life, ſome to con<g ref="char:EOLhyphen"/>demnation, therefore thou wilt live in the neglect of means; Judge whether thy deſtruction be not of thy ſelf. It's thy duty, whatſoever God hath decreed, to wait upon him in the uſe of means, and leave the ſucceſs to God: And this know for thy comfort, never any man conſcientioſluy thus waited upon God, or had true deſires of heaven, was diſ<g ref="char:EOLhyphen"/>appointed of his hopes; <hi>The Lord fulfils the deſires of all ſuch as fear him.</hi>
+            </p>
+            <p>
+               <pb n="20" facs="tcp:118143:14"/>
+               <hi>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>
+                  </label> But me-think it's very ſtrange that God ſhould create any man with a purpoſe to deſtroy him; How can it ſtand with his Juſtice to elect ſome, and to reject others, all being of one and the ſame lump, and all the works of his own hand?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> This objection being ſufficiently anſwered in the prece<g ref="char:EOLhyphen"/>ding diſcourſe; I ſhall not ſpeak much more to it, only  add, that the main end why God created the whole world, was his own glory, and ſo conſequently mankinde: now the glory of God ſhineth in nothing more eminently then in this of his Prerogative Royal, in electing ſome, and re<g ref="char:EOLhyphen"/>jecting others; his free grace and mercy exceedingly ma<g ref="char:EOLhyphen"/>nifeſted in the one, and his Juſtice in the other; and yet (as before) no unrighteouſneſs in God; as hath formerly been cleared: For</p>
+            <p n="1">1. He gave us power in <hi>Adam</hi> to ſtand, after he had created us holy and innocent.</p>
+            <p n="2">2. He denies not the means of grace to thoſe that periſh.</p>
+            <p n="3">3. There is a ſufficient price paid for all, and for a thou<g ref="char:EOLhyphen"/>ſand worlds more.</p>
+            <p n="4">4. In all that periſh there is a deſperate heart of unbelief implacably bent againſt God, and all means of grace: and although God give ſuch men up to their own hearts luſts, though he give men up to a reprobate mind, he gives no man ſuch a heart; although (as before) he with-hold the beſtowing of his graces, he being a free Agent.</p>
+            <p n="5">5. Such as thus diſpute with God, and call in queſtion his ſoveraignty, the Apoſtle anſwers, <hi>Rom.</hi> 9. 20, 21. <hi>Who art thou oh man, &amp;c?</hi> but of this heretofore.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label>
+               <hi>But the Scripture is full of ſuch Texts as theſe,</hi> That  Chriſt came into the world to ſave all; <hi>as</hi> John 11. 29. Behold the Lamb of God that taketh away the ſins of the world: <hi>Called alſo</hi> the Saviour of the world; <hi>John</hi> 4. 42. <hi>and many ſuch like.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> The miſ-interpretation of the two words [all] and  [world] with the not comparing Scripture with Scripture,
+<pb n="21" facs="tcp:118143:14"/>
+is the principal ground of the miſtake; for <hi>no Scripture is of private interpretation,</hi> neither are many Texts to be ta<g ref="char:EOLhyphen"/>ken literally, the Scripture being full of Figures and Alle<g ref="char:EOLhyphen"/>gories. To prevent the evils attending ſuch interpretation, take notice, 1. How diverſly the word [world] is to be accepted in Scripture.</p>
+            <p n="1">1. For the created Fabrick; as <hi>Pſal.</hi> 90. 2. <hi>Iſa.</hi> 62. 11. <hi>Jer.</hi> 10. 12. 1 <hi>Sam.</hi> 2. 8. <hi>Pſal.</hi> 19. 4. <hi>Luke</hi> 1. 70. <hi>John</hi> 17. 5. 11. <hi>&amp;</hi> 2. 7. &amp;c.</p>
+            <p n="2">2. For the people of the world; as <hi>Pſal.</hi> 9. 8. <hi>&amp;</hi> 96. 3. <hi>&amp;</hi> 98. 9. <hi>John</hi> 3. 16. &amp;c.</p>
+            <p n="3">3. For the wicked of the world; as <hi>Matth.</hi> 18. 7. <hi>Iſa.</hi> 13. 11. 1 <hi>Cor.</hi> 11. 32. <hi>John</hi> 7. 7. <hi>&amp;</hi> 14. 17. <hi>&amp;</hi> 15. 18. <hi>&amp;</hi> 17. 9. <hi>&amp;</hi> 16. 29. 1 <hi>Cor.</hi> 6. 2. &amp;c.</p>
+            <p n="4">4. For the elect, the godly party; as <hi>Matth.</hi> 5. 14. <hi>John</hi> 1. 29. <hi>&amp;</hi> 3. 17. <hi>&amp;</hi> 4. 42. <hi>&amp;</hi> 6. 33. <hi>&amp;</hi> 12. 47. 2 <hi>Cor.</hi> 5. 19. 1 <hi>John</hi> 2. 2. &amp;c.</p>
+            <p n="5">5. For the honours, pleaſures, and profits of the world; as <hi>Mat.</hi> 16. 26. <hi>Mark</hi> 8. 36. <hi>Luke</hi> 9. 25. <hi>Matth.</hi> 4. 8. 2 <hi>Tim.</hi> 4. 10. <hi>James</hi> 1. 27. 1 <hi>John</hi> 2. 15.</p>
+            <p n="6">6. For a part of the people of the world; as <hi>Luke</hi> 2. 1. <hi>John</hi> 12. 19. <hi>&amp;</hi> 18. 20. <hi>Acts</hi> 19. 27. 1 <hi>Cor.</hi> 4. 9. &amp;c.</p>
+            <p n="7">7. For the whole race of mankinde in their natural con<g ref="char:EOLhyphen"/>dition; as <hi>John</hi> 15. 18. <hi>&amp;</hi> 14. 17. <hi>&amp;</hi> 7. 7. <hi>&amp;</hi> 8. 26. <hi>&amp;</hi> 16. 20. 1 <hi>John</hi> 5. 19. &amp;c.</p>
+            <p n="8">8. For a part of the created Fabrick, Continent, or Dimenſions of the earth; as <hi>Acts</hi> 11. 28. <hi>John</hi> 21. 25. <hi>Matth.</hi> 4. 8.</p>
+            <p n="9">9. For the Manners, Cuſtoms, Governments, or Corru<g ref="char:EOLhyphen"/>ptions of men in the world; as <hi>Acts</hi> 17. 6. <hi>Gal.</hi> 1. 4. <hi>&amp;</hi> 6. 14. &amp;c.</p>
+            <p>
+               <hi>Likewiſe the word [all] is alſo diverſly accepted.</hi>
+            </p>
+            <p n="1">1. It refers to the whole race of mankinde; as <hi>Gen.</hi> 3. 20. <hi>Rom.</hi> 5. 12. <hi>&amp;</hi> 3. 9, 23. <hi>&amp;</hi> 15. 22. 2 <hi>Cor.</hi> 5. 10. &amp;c.</p>
+            <p n="2">2. For a conſiderable part of that to which it relates;
+<pb n="22" facs="tcp:118143:15"/>
+as <hi>Gen.</hi> 12. 3. <hi>&amp;</hi> 24. 36. <hi>&amp;</hi> 28. 14. <hi>&amp;</hi> 41. 57. <hi>Iohn</hi> 11. 48. <hi>&amp;</hi> 1. 7. <hi>Exod.</hi> 18. 8. <hi>Ier.</hi> 9. 2. <hi>Mat.</hi> 2. 3. <hi>&amp;</hi> 8. 16. <hi>&amp;</hi> 3. 5, 6. <hi>&amp;</hi> 21. 6. <hi>Mark</hi> 1. 5. <hi>Iohn</hi> 4. 29. <hi>&amp;</hi> 6. 45. <hi>Iſa.</hi> 54. 13. 1 <hi>Cor.</hi> 6. 12. <hi>Phil.</hi> 2. 21. &amp;c.</p>
+            <p n="3">3. For the Elect; as <hi>Gal.</hi> 3. 8, 26. <hi>Acts</hi> 3. 25. 1 <hi>Cor.</hi> 10. 4. <hi>Luke</hi> 20. 38. <hi>Heb.</hi> 8. 11. <hi>Gen.</hi> 12. 3. &amp;c.</p>
+            <p n="4">4. For the wicked of the world; as <hi>Rev.</hi> 1. 7. <hi>Mic.</hi> 7. 2. <hi>Iſa</hi> 34. 2. &amp;c.</p>
+            <p n="5">5. For ſome of all ſorts, Countries, and Nations; 1 <hi>Tim.</hi> 2. 6. <hi>Rev.</hi> 1. 7. <hi>Pſal.</hi> 75. 11, 17. <hi>&amp;</hi> 86. 9. <hi>Mat.</hi> 24. 9. &amp;c.</p>
+            <p n="6">6. For all in a large and literal ſenſe, as well in relation to perſons as things; as <hi>Matth.</hi> 28. 18. <hi>Iſa.</hi> 26. 12. <hi>Pſal.</hi> 146. 6. <hi>Eccl.</hi> 3. 20. <hi>Rom.</hi> 3. 9, 10. <hi>John</hi> 5. 28. <hi>Acts</hi> 15. 14. 2 <hi>Cor.</hi> 5. 10. <hi>Gal.</hi> 3. 22.</p>
+            <p>Now it's an eaſie matter for men, either peeviſh, ſelfiſh, ignorant, or profane, wedded to their own opinions, to draw very dangerous and pernitious doctrines out of theſe and ſuch like Scriptures, although to the deſtruction of themſelves, and many others; and yet have divers Scri<g ref="char:EOLhyphen"/>ptures ſeemingly to father their fallacies upon, meerly for want of humble and holy hearts, unbyaſſed ſpirits, to compare one Scripture with another: For want whereof, men of corrupt minds by their private interpretations of ſome, and wreſting of other Scriptures, make the everlaſt<g ref="char:EOLhyphen"/>ing Goſpel of Peace, the unerring Word of God, the very foundation of fallacy, and cauſe of all hereſie, contradiction, and contention; deſtroying not only that holy harmony that is in the word, but ſeducing thouſands weak Chriſti<g ref="char:EOLhyphen"/>ans, yea much impeding, obſtructing, and diſturbing the very elect, both in their comfort and confidence: Bleſſed be God who hath laid an impoſſibility upon their being totally traduc'd: Therefore it concerns all that truly fear God, not to believe every Spirit, but to try them whether they be of God or no; not to be ſuddenly moved with every winde of Doctrine, but like noble Boereans, compare
+<pb n="23" facs="tcp:118143:15"/>
+Scripture with Scripture; one Prophet and one Apoſtle with another; and with humble, holy, and ſelf-denying hearts, crave God (the Author of Truth) to give more and more of his Spirit, that ſo they may be directed into all Truth, and preſerved from the errors of the wicked.</p>
+            <p>Now that we may plainly ſee the danger of private In<g ref="char:EOLhyphen"/>terpretations and as avoid that, ſo take notice of the ex<g ref="char:EOLhyphen"/>ceeding benefit and neceſſity of comparing Scripture with Scripture; I have collected divers Texts, ſeemingly oppo<g ref="char:EOLhyphen"/>ſite, and ſpeaking quite contrary one to the other, being literally and particularly interpreted, and yet compared with one another, and other Scriptures, moſt ſweetly, evangelically, and harmoniouſly accord, and as parallel as the ſtreighteſt lines; By which few it may eaſily be diſcern<g ref="char:EOLhyphen"/>ed how all other may be rightly reconciled, and the Truths of God preſerved and vindicated againſt all hereſie and errors whatſoever: and certainly, it were a moſt de<g ref="char:EOLhyphen"/>ſireable work, worth the pains of the moſt judicious and godly learned, and exceedingly beneficial to the Church of God, tending much to its peace and edification, to the overthrow of the kingdom of Sathan and Antichriſt, the advance of Truth, Throne, Scepter, and Kingdom of Chriſt, to endeavour the reconciliation of all Scriptures ſeemingly contradicting, and to publiſh it for common be<g ref="char:EOLhyphen"/>nefit, although it ſhould coſt the labours of a whole life: I know the Lord hath many worthies, able champions, men valiant for the truth; and I hope, will ſtir up ſome of them in this needful time, wherein his Truth meets with ſo many adverſaries. As for thoſe few Scriptures I ſhall ſpeak to, I intend not to enter into a full diſquiſition of each particular Text, but only in general give the ſenſe and meaning of the holy Ghoſt, as they are joyntly and comparatively confidered.</p>
+            <p>
+               <pb n="24" facs="tcp:118143:16"/>
+               <hi>The Scriptures ſeemingly contradi<g ref="char:EOLhyphen"/>dictory, reconcil'd;</hi> as followeth.</p>
+            <q>
+               <bibl>Rev. 22. 11.</bibl>
+               <p>
+                  <hi>He that is unjuſt, let him be unjuſt ſtill; and he that is filthy, let him be fil<g ref="char:EOLhyphen"/>thy ſtill; and he that is righteous, let him be righte<g ref="char:EOLhyphen"/>ous ſtill; and he that is ho<g ref="char:EOLhyphen"/>ly, let him be holy still.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>2 Cor. 7. 1.</bibl>
+               <p>
+                  <hi>Let us clenſe our ſelves from all filthineſs of fleſh and Spirit.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>James 1. 21.</bibl>
+               <p>
+                  <hi>Wherefore laying apart all filthyneſs, &amp;c.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>Eph. 4. 28.</bibl>
+               <p>
+                  <hi>Let him that ſtole, ſteal no more.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>Rom. 13. 12.</bibl>
+               <p>
+                  <hi>Let us therefore caſt off the works of darkneſs, &amp;c.</hi>
+               </p>
+            </q>
+            <p>Shall any man from <hi>Rev.</hi> 22. 11. take encouragement to continue in any ungodly practiſe? No, God forbid: God is not the Author of ſin; and other Scriptures we ſee ſpeak a clean contrary language: The holy Ghoſt here by way of Irony, threats wicked men; as in <hi>Eccleſ.</hi> 11. 9. <hi>Rejoyce thou young man in thy youth, and let thy heart chear thee in the days of thy youth; but know, for all this the Lord will bring thee to judgement:</hi> A place parallel to this; only in the one the penalty is expreſs'd, in the other implyed: It's a Judicial menace; as a father having two ſons, the one obedient, the other rebellious; bids the one go on in his diſobedience, take his courſe, and take what follows; being tyred with his lewd courſes, having uſed all means to reclaim him, now gives him over, while
+<pb n="25" facs="tcp:118143:16"/>
+he encourages the other to continue well-doing, from the benefit accruing: Or, <hi>Let him be filthy ſtill,</hi> may be a ſe<g ref="char:EOLhyphen"/>vere and judicial ſentence of reprobation and rejection; when the Lord affords means and opportunities of grace, and men will follow their luſts, will be unclean, unholy<g ref="char:punc">▪</g> God may and doth juſtly give them over; ſaying to them as to the barren Fig-tree, <hi>never fruit grow on thee more:</hi> while the Saints are encouraged to go on in all waies of righteouſneſs, bringing forth fruit more and more, to the honour of God, and their everlaſting comfort.</p>
+            <q>
+               <bibl>Matth. 6 25.</bibl>
+               <p>
+                  <hi>Take no thought for your life, what ye ſhall eat, or what ye ſhall drink; nor yet for the body, what ye ſhall put on; Is not the life more then meat? and the body then rayment?</hi>
+               </p>
+               <p>26. <hi>Behold the Fowls of the Ayr, &amp;c.</hi>
+               </p>
+               <p>28. <hi>Conſider the Lillies of the field; they neither toyl, neither do they ſpin; and yet &amp;c.</hi>
+               </p>
+               <p>34. <hi>Take therefore no thought for the morrow, for the morrow ſhall take thought for the things of it ſelf: ſufficient to the day is the evil thereof.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>Prov. 6. 6, 8.</bibl>
+               <p>
+                  <hi>Go the to Ant thou ſlug<g ref="char:EOLhyphen"/>gard, conſider her ways, and be wiſe: She provideth her meat in the Summer, and gathereth her food in the harveſt.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>1 Tim. 5. 8.</bibl>
+               <p>
+                  <hi>But if any provide not for his own, and eſpecially for them of his own houſe; he hath denyed the faith, and is worſe then an Infidel.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>2 Theſ. 3. 10.</bibl>
+               <p>
+                  <hi>For even when we were with you, this we command<g ref="char:EOLhyphen"/>ed you, That if any would not work, neither ſhould he eat.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>1 Cor. 7. 32.</bibl>
+               <p>
+                  <hi>He that's unmarried, careth for the things that belong to the Lord, how he may pleaſe the Lord:</hi>
+               </p>
+               <p>
+                  <pb n="26" facs="tcp:118143:17"/>
+               </p>
+               <bibl>Phil. 4. 6.</bibl>
+               <p>
+                  <hi>Be careful for nothing.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>1 Pet. 5. 7.</bibl>
+               <p>
+                  <hi>Caſt your care upon him, for he careth for you.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>1 Cor. 7. 32.</bibl>
+               <p>
+                  <hi>But I would have you without carefulneſs.</hi>
+               </p>
+               <p>
+                  <bibl>v. 33.</bibl> 
+                  <hi>But he that's mar<g ref="char:EOLhyphen"/>ried, careth for the things of this life, how he may pleaſe his wife.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>Gen. 3. 19.</bibl>
+               <p>
+                  <hi>In the ſweat of thy face ſhalt thou eat thy bread.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>Eccleſ. 10. 18.</bibl>
+               <p>
+                  <hi>By ſlothfulneſs the ro<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f of the houſe goeth to decay and by the idleneſs of the hands the houſe droppeth down.</hi>
+               </p>
+            </q>
+            <p>Some there are that vainly conclude from <hi>Matth.</hi> 6. 25, 26, 28, 34. and from <hi>Phil.</hi> 4. 6. &amp;c. that they need take no care for any thing in this life, but either <hi>Camelion-like</hi> expect to live by the Ayr, or elſe in the utter neglect of their callings; while they pretend relyance upon Provi<g ref="char:EOLhyphen"/>dence, turn meer tempters of God, wanderers up and down, buſie bodies, medlers with other mens matters, idle perſons, living upon the labours and induſtries of other men, not at all conſidering what the Apoſtle ſaith in 2 <hi>Theſ.</hi> 3. 10. that if any would not labour, they ſhould not eat: the intent of the Spirit of God, and of the Lord Chriſt in ſuch places of Scripture, upon which they would plead a toleration for their intolerable idleneſs, is, that men and women in the uſe of lawful means, ſhould have their dependance upon God; and that as Chriſtians ſhould not over-incumber themſelves with worldly buſineſs, ſo as to neglect the one thing neceſſary, ſo in the midſt of the moderate uſe of the creature, and of their lawful callings, they ſhould caſt of<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all immoderate and inordinate care, relying upon God who careth for them: for it's an un<g ref="char:EOLhyphen"/>warrantable and extreme preſumption, and a temptati<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n of God, by a particular or private interpretation of Scri<g ref="char:EOLhyphen"/>pture,
+<pb n="27" facs="tcp:118143:17"/>
+to ſerue ſuch a ſenſeleſs ſenſe as this: For although a man riſe early, and go late to bed, and eat the bread of carefulneſs, all will be but as put into a bottomleſs bag, unleſs God give a bleſſing: And thus theſe Scriptures that ſeem ſo to thwart one another, being comparatively and joyntly conſidered, are really reconcil'd, and hold forth one and the ſame thing.</p>
+            <q>
+               <bibl>John 11. 17.</bibl>
+               <p>
+                  <hi>For the Law came by Moſes, but Grace and Truth by Jeſus Chriſt.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>Rom. 3. 19.</bibl>
+               <p>
+                  <hi>What the Law ſaith, it ſaith to them that are un<g ref="char:EOLhyphen"/>der the Law, &amp;c.</hi>
+               </p>
+               <p>
+                  <bibl>v. 20. </bibl>
+                  <hi>By the works of the Law ſhall no ſleſh be ju<g ref="char:EOLhyphen"/>ſtified.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>Rom. 7. 6.</bibl>
+               <p>
+                  <hi>Now we are delivered from the Law.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>Rom. 10. 4.</bibl>
+               <p>
+                  <hi>For Christ is the end of the Law to al<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> that believe.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>Eph. 2. 15.</bibl>
+               <p>
+                  <hi>Having aboliſhed the Law of Commandments.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>Mal. 2. 6.</bibl>
+               <p>
+                  <hi>Remember the Law of Moſes.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>Mat. 5. 17. 18.</bibl>
+               <p>
+                  <hi>Think not that I am come to deſtroy the Law, but to fulfil it.</hi>
+               </p>
+               <p>
+                  <bibl>v. 19.</bibl> 
+                  <hi>Till heaven and earth periſh, one jot or tittle of the Law ſhall not eſcape, till all be fulfilled.</hi>
+               </p>
+               <p>
+                  <bibl>v. 20.</bibl> 
+                  <hi>Whoſoever there<g ref="char:EOLhyphen"/>fore ſhall break one of theſe leaſt commandments, and teach men ſo, ſhall be called leaſt in the kingdom of hea<g ref="char:EOLhyphen"/>ven; but whoſoever ſhall do and teach them, the ſame ſhall be called great in the kingdom of heaven.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>Rom. 7. 12.</bibl>
+               <p>
+                  <hi>Wherefore the Law is holy, and the Commandment holy, and juſt, and good.</hi>
+               </p>
+            </q>
+            <p>
+               <pb n="28" facs="tcp:118143:18"/>
+Divers other Scriptures of like concernment.</p>
+            <p>
+               <hi>Gal.</hi> 3. 10. <hi>Rom.</hi> 7. 46. <hi>Gal.</hi> 2. 19. 1 <hi>Tim.</hi> 1. 9. <hi>Rom.</hi> 16. 14. <hi>Gal.</hi> 2. 16, 21. <hi>Gal.</hi> 3. 2. <hi>&amp;</hi> 4. 21. <hi>&amp;</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 3. <hi>Eph.</hi> 2. 15. <hi>Mat.</hi> 11. 13. <hi>Luke</hi> 16. 16. <hi>Acts</hi> 13. 39. <hi>Rom.</hi> 3. 28. <hi>&amp;</hi> 4. 13. 15. <hi>&amp;</hi> 7. 4. <hi>&amp;</hi> 9. 32. &amp;c.</p>
+            <p>Other Scriptures of like concernment.</p>
+            <p>
+               <hi>Mat.</hi> 15. 3. <hi>Mark</hi> 12. 30. <hi>Rom.</hi> 13. 9. <hi>Eph.</hi> 6. 2. <hi>John</hi> 2. 4. <hi>Mark</hi> 10. 17, 19. <hi>Luke</hi> 1. 6. <hi>John</hi> 14. 21. <hi>Acts</hi> 28. 23. <hi>Rom.</hi> 2. 13. <hi>&amp;</hi> 3. 20. <hi>Gal</hi> 3. 24. <hi>James</hi> 2. 11. <hi>John</hi> 1. 3, 4. <hi>Mat.</hi> 19. 16, 18 19. <hi>Mark</hi> 12. 29, 30. <hi>John</hi> 15. 10. 1 <hi>Cor.</hi> 7. 19. <hi>Neh.</hi> 10. 29. <hi>Rev.</hi> 22. 14. 1 <hi>John</hi> 2. 4. &amp;c.</p>
+            <p>Theſe Scriptures, and many more of like import not here mentioned, being compared one with another, hold a ſweet and holy harmony one with another; nay although each Text were particularly diſcuſſed, yet being Evangeli<g ref="char:EOLhyphen"/>cally interpreted, according to the Analogie of Faith, would not at all differ: Yet men of corrupt minds, by ſi<g ref="char:EOLhyphen"/>niſter and private conſtruction of them, draw forth ſuch a ſenſe as may ſuit their own fancy, although they bring them into a direct oppoſition; although ſuch private In<g ref="char:EOLhyphen"/>terpretations are quite contrary to the Word of God; as in 2 <hi>Pet.</hi> 1. 20. and is cauſe of not only that old Antino<g ref="char:EOLhyphen"/>mian, but all other hereſie and error; it's an old hereſie new vampt, to ſay, <hi>The Law is of no uſe to Believers now in Goſpel times;</hi> For certainly, as the Goſpel was of ſpeci<g ref="char:EOLhyphen"/>al uſe to Believers in times of the Law, ſo is the Law of precious uſe to Believers in Goſpel times; <hi>viz.</hi> the Moral Law: I wonder of what uſe the Law of God, the ten Commandments given in Mount <hi>Sinai,</hi> were to <hi>Abraham, Iſaac, Jacob, Noah, Job, Daniel,</hi> &amp;c. that it is not to every Believer in theſe days! No man thinks they were ſaved by the works of the Law, or expected Juſtification
+<pb n="29" facs="tcp:118143:18"/>
+by the Law, but by faith; nevertheleſs it was the rule of their ſanctification and obedience, it was the way they walked into life, although not the cauſe of life; and ſo it muſt be to all the godly in Goſpel times, although not the cauſe of Juſtification, yet it's the ſtanding rule of their ſanctification, obedience, and converſation: This error ari<g ref="char:EOLhyphen"/>ſeth principally from the miſ-interpretation of the word Law; which is ſeverally in Scripture to be accepted. Som<g ref="char:EOLhyphen"/>time intending the Ceremonial Law, ſomtime the Judicial, ſomtime the Moral Law; ſomtime the penalty of the Law; as <hi>Col.</hi> 2. 14. <hi>Eph.</hi> 2. 15, &amp;c. there it intends the Ceremonial Law: in <hi>Acts</hi> 23. 3. 1 <hi>Tim.</hi> 1. 9, 10, 11. there the Judicial Law, and the penalty thereof is intended; the Judicial Law being a rule of life in Civil reſpects, none are concern'd in the penalty thereof but evil doers: So al<g ref="char:EOLhyphen"/>though the penalty of the Moral Law belongs to none but unbelievers and ungodly wretches, yet it's a rule of life to all, even to the moſt precious people of God: It was the comendation of <hi>Zachary</hi> and <hi>Eliſabeth,</hi> that <hi>they walked in all the commands of God unreprovably;</hi> for any man to ſay the Law is of no uſe to Believers, is (I ſay) an old deſparate hereſie, that brings hundreds of Scriptures by the ears, which is prevented, by an holy, humble, judicial, and impartial comparing one Scripture with another, and interpreting one by another: It's confeſt, that the damna<g ref="char:EOLhyphen"/>tory, the domineering, nay the juſtifying power of the Law is aboliſhed, as in a legal ſenſe, yet evangelically interpre<g ref="char:EOLhyphen"/>ted, every Believer is ſaved by a Law of works, as between God the Father and Jeſus Chriſt the mediator of our peace, who hath fulfilled the Law for us; and therefore ſalvation is of free grace to us: yet withal know this, no man ſhall ever receive benefit by the fulfilling of the Law by Chriſt, that practiſes not obedience to that very Law; for as Jeſus Chriſt was the Angel of the Covenant that conducted Iſrael to Canaan, that appeared in the Buſh, <hi>Exod.</hi> 3. 2. <hi>Acts</hi> 7. 35. the ſame hath left this leſſon
+<pb n="30" facs="tcp:118143:19"/>
+to all that love him, and will follow him to the heavenly Canaan, <hi>to keep his Commandments:</hi> And thus thoſe Scriptures before mentioned, although they ſeem to ſpeak a contrary language, are to be reconciled.</p>
+            <p>
+               <hi>Come we now to thoſe Scriptures that concern the preſent Controverſie; which becauſe very many there can be no expectation of a particular account of every, or any one of them; neither is it my purpoſe: Yet by Gods grace, I intend ſo to ballanee the account, as to give in the</hi> ſumma totalls <hi>of them all, ſo far as is neceſſary to the matter in hand, according to the holy Spirit that ſpeaks in them.</hi>
+            </p>
+            <q>
+               <bibl>1 Cor. 15. 22.</bibl>
+               <p>
+                  <hi>For as in</hi> Adam <hi>all dy, e<g ref="char:EOLhyphen"/>ven ſo in Christ ſhall all be made alive.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>Rom. 5. 18.</bibl>
+               <p>
+                  <hi>Likewiſe then as by the offence of one, the fault came on all men to condem<g ref="char:EOLhyphen"/>nation, ſo by the juſtifying of one, the benefit abounded to all men, to the juſtificati<g ref="char:EOLhyphen"/>on of life.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>John 4. 42.</bibl>
+               <p>
+                  <hi>This indeed is the Chriſt, the Saviour of the world.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>John 1. 29.</bibl>
+               <p>
+                  <hi>Behold the Lamb of God, which taketh away the ſins of the world.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>Mark 16. 16.</bibl>
+               <p>
+                  <hi>He that believes and is baptiſed, ſhall be ſaved; he that believes not, ſhall be damned.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>John 3. 15, 16.</bibl>
+               <p>
+                  <hi>God ſo loved the world, that he gave his only begot<g ref="char:EOLhyphen"/>ten Son, that whoſoever be<g ref="char:EOLhyphen"/>lieves in him ſhould not pe<g ref="char:EOLhyphen"/>riſh, but have everlaſting life.</hi>
+               </p>
+               <p>
+                  <hi>He that believes not, is condemned already.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>John 1. 5, 19.</bibl>
+               <p>
+                  <hi>The whole world lies in wickedneſs.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>John 7. 7.</bibl>
+               <p>
+                  <hi>The world cannot hate you, but me it hateth.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>
+                  <pb n="31" facs="tcp:118143:19"/>
+1 John 4. 14.</bibl>
+               <p>
+                  <hi>And we have ſeen, and do teſtifie, that the Father ſent the Son to be the Saviour of the world.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>1 John 2. 2.</bibl>
+               <p>
+                  <hi>And not for ours only, but for the ſins of the whole world.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>2 Cor. 5. 9.</bibl>
+               <p>
+                  <hi>That God was in Chriſt, reconciling the world unto himſelf.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>Gal. 3. 8.</bibl>
+               <p>
+                  <hi>In thee ſhall all the nations of the earth be bleſſed.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>John 3. 17.</bibl>
+               <p>
+                  <hi>That the world through him might be ſaved.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>John 6. 33, 51.</bibl>
+               <p>
+                  <hi>Ana giveth life unto the world. Which I will give for the life of the world.</hi>
+               </p>
+            </q>
+            <p>Other Scriptures of like concernment.</p>
+            <p>
+               <hi>John</hi> 12. 47. <hi>&amp;</hi> 15. 18, 19. <hi>Rom.</hi> 4. 13. <hi>&amp;</hi> 11. 12, 15. <hi>&amp;</hi> 8, 32. <hi>Acts</hi> 3. 16, 25. <hi>Gal.</hi> 3, 28. 2 <hi>Pet.</hi> 3, 9. <hi>Ezek.</hi> 18. 32. &amp; 33. 11. <hi>Prov.</hi> 1, 30. <hi>Mat.</hi> 23. 57. <hi>Luke</hi> 1. 7. 1 <hi>Tim.</hi> 2. 4. 2 <hi>Pet.</hi> 3, 9. &amp;c.</p>
+            <q>
+               <bibl>John 14. 17.</bibl>
+               <p>
+                  <hi>Whom the world cannot receive.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>John 17. 2, 9.</bibl>
+               <p>
+                  <hi>Thou haſt given him pow<g ref="char:EOLhyphen"/>er over all fleſh, that he ſhould give eternal life to them thou haſt given him.</hi>
+               </p>
+               <p>
+                  <hi>I pray not for the world, but for them thou haſt giv<g ref="char:EOLhyphen"/>en me out of the world.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>Mat, 15, 24.</bibl>
+               <p>
+                  <hi>I am not ſent but to the loſt ſheep of Iſrael.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>Rom, 11, 7,</bibl>
+               <p>
+                  <hi>Then Iſrael hath not ob<g ref="char:EOLhyphen"/>tain'd, but the election.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>Rom, 9, 27,</bibl>
+               <p>
+                  <hi>Though Iſrael be as the ſand, yet but a remnant ſhall be ſaved.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>Eph. 1. 4, 5.</bibl>
+               <p>
+                  <hi>Choſen us in him before the foundation of the world.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>John 10. 15.</bibl>
+               <p>
+                  <hi>I lay down my life for my ſheep.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>Jude 4.</bibl>
+               <p>
+                  <hi>Men of old, pre-ordained to deſtruction.</hi>
+               </p>
+            </q>
+            <p>Other concern'd Scriptures.</p>
+            <p>
+               <hi>Mat.</hi> 20. 16. <hi>&amp;</hi> 24. 22, 24. <hi>&amp;</hi> 29. 34. <hi>Luke</hi> 13. 23. <hi>&amp;</hi> 1. 68. <hi>&amp;</hi> 18. 17. <hi>Mar.</hi> 13. 20, 22, 27. <hi>Act,</hi> 13. 18. <hi>Rom.</hi> 8 29, 30, 33 <hi>&amp;</hi> 9, 11, 23. <hi>&amp;</hi> 11. 5. <hi>Tit.</hi> 1. 1, 2. 1 <hi>Pet.</hi> 1. 2, 20. 2 <hi>Pet.</hi> 1. 10. <hi>Eph.</hi> 3. 11. <hi>&amp;</hi> 1. 4, 9. 2 <hi>Tim.</hi> 1. 9 <hi>Rev.</hi> 14. 4. <hi>Gal.</hi> 5, 17.</p>
+            <p>
+               <pb n="32" facs="tcp:118143:20"/>
+Foraſmuch as that 1 <hi>Cor.</hi> 15. 22. firſt mentioned to maintain that pernicious doctrine of Univerſal Redemption, hath no relation at all to the doctrine of Redemption, but of the Reſurrection, I ſhall not ſpeak much to it, only this; It's true, that by the power of Chriſt's death and reſurrecti<g ref="char:EOLhyphen"/>on, all men, both godly and wicked, ſhall ariſe at that great and terrible day of the Lord; but withal conſider, that as ſome ſhall ariſe to the reſurrection of life, ſo alſo others to the reſurrection of condemnation: the day of re<g ref="char:EOLhyphen"/>ſurrection is ſo far from being any benefit to unbelievers, as that it's only the taking them out of priſon, to receive their laſt and dreadful doom, and ſo to be hurried to the place of execution: But as for all other Scriptures that ſeem to plead this hereſie, if we compare them with others, we ſhall finde them directly oppoſite to that opinion: For as it is ſaid the Lord Chriſt <hi>bealed all ſickneſſes and diſeaſes, and evert one poſſeſſed with divels, &amp;c.</hi> in like ſenſe he dyed for all, and becomes a Saviour to all; to wit, all that are given to him, and come to him by Faith: For as mil<g ref="char:EOLhyphen"/>lions of men in the world never received cure by Chriſt of their corporal diſeaſes, that neither came, nor were brought to him; ſo millions periſh, that never lay hold upon Chriſt by faith; his blood being beneficial to none but ſuch as come to him, and eat his fleſh, and drink his blood by faith; It's unreaſonable, contrary to harmony of Scripture, derogatory to the excellency of the blood and merit of Chriſt, overthrows the omnipotency and very be<g ref="char:EOLhyphen"/>ing of God, denies his ſoveraignty over the creature, tram<g ref="char:EOLhyphen"/>ples under foot that precious doctrine of election and pre<g ref="char:EOLhyphen"/>deſtination, makes the eternal decree of God of no effect, deſtroys the doctrine of free grace, and inſtead thereof ſets up free-will, or a Law of works, as already hath been plainly manifeſted, with many other groſs abſurdities at<g ref="char:EOLhyphen"/>tending; to hold that Chriſt ſhed his blood for all uni<g ref="char:EOLhyphen"/>verſally and indefinitely, that he hath freed all from the guilt of <hi>Adam</hi>'s tranſgreſſion, and puts every man into a
+<pb n="33" facs="tcp:118143:20"/>
+ſtate of innocency, that all men have power to ſtand or fall, to repent and believe, &amp;c. But that Chriſt laid down his life for his ſheep, for thoſe whom God the Father hath giv<g ref="char:EOLhyphen"/>en him out of the world, for all that believe, that many are called, but few choſen; that Chriſt's flock is a little flock, that none but the elect, nay the elect of Iſrael obtain mer<g ref="char:EOLhyphen"/>cy, that but a remnant (even of Iſrael) ſhall be ſaved, that certain men are elected and choſen to be veſſels of honour, and ſome pre-ordained to condemnation before the world was, that no man can come to Chriſt, unleſs drawn to him by God the Father, that we are not able of our ſelves to think a good thought, that it's God that works in us both to will and to do of his good pleaſure, that we are all by nature children of wrath and diſobedience, dead i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> treſpaſſes and ſins, that faith is the gift of God, and that without faith none can receive the leaſt benefit by the death, reſurrection, or interceſſion of Chriſt, that all men dying in a ſtate of unbelief, periſh eternally; that the ungodly and hypocrite ſhall be in hell tormented for ever, while the godly, and ſuch as believe in the Lord Chriſt, ſhall reign<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with him eternally in glory: This Scripture clearly holds forth, as by comparing one Scripture with another, he that runs may read. The main cauſe of this error as aforeſaid, is a miſconſtruction and miſ-interpretation of the words [all] and [world] which are ſeverally accepted; for even the elect may be called the world, not unaptly conſidered in themſelves, being very many, <hi>Rev.</hi> 7. 4. read there of an hundred forty and four thouſand of the Tribes of Iſrael ſealed, and <hi>verſe</hi> 9. a great multitude whom none could number; and yet all theſe compared with thoſe that pe<g ref="char:EOLhyphen"/>riſh, but a remnant, a little flock; and in this ſenſe is the word [world to be taken in 1 <hi>John</hi> 29. and 2 <hi>Cor.</hi> 5. 19. and divers other places: And whereas it is ſaid, <hi>As in Adam all dy, even ſo in Chriſt ſhall all be made alive;</hi> If that Scripture had any reference at all to the doctrine of Redemption, it ſhould be thus interpreted; That as all that
+<pb n="34" facs="tcp:118143:21"/>
+dy eternally, dy in Adam; ſo all that live eternally, live in Chriſt: the way and cauſe of ſalvation being there in<g ref="char:EOLhyphen"/>tended, not the number that are to be ſaved or deſtroyed; but as all men do not dy eternally in Adam, ſo all men live not eternally by Chriſt: God having choſen only a certain number to himſelf, on whom he declares the riches of his grace, while he rejects others, upon whom he makes known his wrath and power: The words [all] and [world] being in Scripture often put for many, or a conſiderable part, as in <hi>Luke</hi> 2. 1. <hi>John</hi> 12. 19. <hi>John</hi> 4. 43. and di<g ref="char:EOLhyphen"/>vers other places before mentioned: And if thoſe two words be thus interpreted, the harmony of Scripture will be maintain'd, even in thoſe that ſeem moſt contradictory; for no Scripture certainly intends ſuch a ſenſe, as that all reprobates, unbelievers, and ungodly wretches, or any of them, ſhould equally ſhare with the Saints and peculiar people of God, of whoſe redemption the blood of Chriſt is the only price: He gave himſelf; What, to redeem a peo<g ref="char:EOLhyphen"/>ple from <hi>Adam</hi>'s guilt, and to ſuffer them to periſh in their actual ſins? No, God forbid; <hi>Whom he pardons, he pu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<g ref="char:EOLhyphen"/>fies; whom he juſtifies, he ſanctifies; and them brings to glory:</hi> He laid down his life to purchaſe a people to him<g ref="char:EOLhyphen"/>ſelf, and to purifie them as well as purchaſe them: There<g ref="char:EOLhyphen"/>fore we may ſafely conclude from all that hath been ſaid, that whom he brings not to glory, he never ſanctifies; and whom he ſanctifies not, them he never juſtifies; and whom he juſtifies not, he ſheds not his blood for: If dogs may not partake of childrens-bread, if ungodly men may not partake in external priviledges, how much leſs in the eter<g ref="char:EOLhyphen"/>nal inheritance of the Saints? Shall men pre-ordain<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to deſtruction partake of the portion of God's elect? God forbid. It's true, wicked men may and do partake of common favours, the ſun-ſhine, the rain, &amp;c. and in this ſenſe the Lord Chriſt may be ſaid to be the Saviour of the world; as 1 <hi>Tim.</hi> 4. 10. where the Apoſtle ſaith, <hi>He is the Saviour of all men, but eſpecially of thoſe that believe:</hi>
+               <pb n="35" facs="tcp:118143:21"/>
+he hath ſpecial favours to viſit them withal: So that we ſee how eaſie it is by private interpretation of Scripture, to maintain the moſt horrid hereſie; while by an humble, holy, impartial comparing of Scriptures one with another, the Truths of God are clearly held forth, and all error and hereſie trodden under foot.</p>
+            <p>I ſhould here ſpeak ſomthing in anſwer to thoſe Scri<g ref="char:EOLhyphen"/>ptures that ſeemingly plead for free-will, as <hi>Prov.</hi> 1. 29. <hi>For that they hated knowledge, and did not chuſe the fear of the Lord.</hi> Mat. 23. 27. <hi>Oh Jeruſalem,</hi> &amp;c. <hi>how often would I have gathered thee together as a hen gathereth her chickens under her wings, but ye would not?</hi> Although in the preceding diſcourſe I have anſwered all objections of this nature, yet I add, that it's true, all men have power and free will by nature to do that that is ſinful and evil; but by reaſon of our depravity, we have no power or will at all to do good; me-thinks that natural proueneſs in children and youth to ſin, aſſoon as capable nay ſooner capable to ſin, then almoſt any thing elſe; that day lie experience the beſt men have of the remains of corruption in themſelves, the old man not quite deſtroyed; when I hear that bleſſed Apoſtle <hi>Paul</hi> crying out of that body of ſin and death he carryed about with him; holy <hi>David</hi> confeſſing and la<g ref="char:EOLhyphen"/>menting the very ſins of his conception &amp; nativity; innocent <hi>Job</hi> telling us, <hi>it's impoſſible for him that's born of a woman to be clean;</hi> I cannot but wonder why men ſhould be ſo deſtitute of common ſenſe, as to ſay, we are all by the death of Chriſt put into a ſtate of innocency! Again, when I hear the Scripture ſay, we are not able to think a good thought of our ſelves; that the beſt men cannot do the things they would; that it's not in him that wills, nor in him that runs, but in God that ſhews mercy; <hi>Rom.</hi> 9. 16. that it's God that worketh in us to will and to do, of his good pleaſure; <hi>Phil.</hi> 2. 15. that by nature we are all children of wrath, dead in treſpaſſes and ſins; that faith is the gift of God, &amp;c. I am forbidden to give any further
+<pb n="36" facs="tcp:118143:22"/>
+anſwer to our free-willers, till they anſwer thoſe Scriptures, and by that time, I think ſilence will ſatisfie; mean while I entreat them to conſider,</p>
+            <p n="1">1. How ſtrongly they ſtrike at God's omnipotence, and conſequently at his eſſence, when they tell us, that thou<g ref="char:EOLhyphen"/>ſands periſh that God would ſave; as if God were not able to ſave whomſoever he pleaſeth.</p>
+            <p n="2">2. How they (as much as in them lies,) trample under foot the eternal decree of God, and deny his ſoveraignty over the creature.</p>
+            <p n="3">3. How by their advance of free will, they uſher in a Law of works, and ſo derogate from the doctrine of free grace; within one ſtep to that popiſh tenent of merit; that while they profeſs themſelves Proteſtants, they are ſtrongly pleading not only the cauſe of Papiſts, but of Atheiſts of the higheſt magnitude, ten degrees beyond and above him mentioned <hi>Pſalm</hi> 14. 1.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label>
+               <hi>If temporal death, and all outward calamity, as pain in child-bearing,</hi> &amp;c. <hi>be effects of original guilt, and that Chriſt (as all confeſs) dyed to deliver all Believers from all, both original and actual Tranſgreſſions, what's the reaſon the godly as well as the wicked dy, that believers as well as unbelievers ſuffer like pain?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> It's very true the wiſe man ſaith, <hi>Eccl.</hi> 9. 1, 2. that <hi>all things come alike to all, and the ſame condition is to the juſt and unjuſt, to the pure, and to the poluted:</hi> and here<g ref="char:EOLhyphen"/>in, as in all other the works of God, appears his wonder<g ref="char:EOLhyphen"/>ful wiſdom and goodneſs, that while the greateſt miſeries of this life befal the godly, they are fatherly caſtigations, and preparations for glory; <hi>he chaſtens them, that they might not periſh with the world,</hi> they having this promiſe, <hi>that all things ſhall work together for the beſt to them;</hi> that even death it ſelf is ſo far from being a puniſhment to them, that it's only a bridge or paſſage to convey them to Canaan, the promiſed land of their heavenly inheritance, all things, and all conditions being ſanctified to them, and
+<pb n="37" facs="tcp:118143:22"/>
+the ſting of all outward viſitations and ſtrokes taken away, while every ſickneſs, pain, calamity, or diſtreſs to the wick<g ref="char:EOLhyphen"/>ed, is but the yerneſt of that eternal torment of which they are heirs apparent, and death it ſelf the terrible ſergeant that hurries and hales them, nill they, will they, to the place of execution.</p>
+            <p>And now having ſhown the ſeveral abſurdities and dan<g ref="char:EOLhyphen"/>gerous errors that are formed in the bowels of this mon<g ref="char:EOLhyphen"/>ſtrous doctrine of univerſal redemption; I ſhall conclude all with a few directions to weak Chriſtians, who by woful experience we ſee ſo apt dayiie to be ſeduced to their utter undoing.</p>
+            <p n="1">1. Take heed of being moved with every wind of do<g ref="char:EOLhyphen"/>ctrine, according to the advice of the Apoſtle, <hi>Eph.</hi> 4. 14. Try the ſpirits whether they be of God yea or no; 1 <hi>Joh.</hi> 4. 1. and if an Angel from heaven ſhall teach any doctrine diſhonourable to God, in denying any of his attributes, de<g ref="char:EOLhyphen"/>ſtructive to the harmony of Scripture, believe him not, nay hold ſuch accurſed, according to <hi>Gal.</hi> 1. 8. though their converſations be never ſo unblameable; for herein Sathan transforms himſelf into an Angel of light; and as he, ſo his miniſters, 2 <hi>Cor.</hi> 9. 14, 15.</p>
+            <p n="2">2. Attend upon every ordinance of God publike and private, not for cuſtom, but conſcience ſake; take heed of that vain opinion and practiſe of too to many in our times, that while they tell us of living above Ordinances, they live without them, in the utter neglect and contempt of them, whereby they become a very prey to the divel, and their own luſts; up to which it's juſt with God to deliver them, <hi>Rom.</hi> 1. 28.</p>
+            <p n="3">3. Beware of ſlighting and ſcorning thoſe, that under God have been inſtruments of thy converſion, how deſpicable ſoever they be in the eys of others: the blind man would not be perſwaded by the Phariſees out of his ſenſes con<g ref="char:EOLhyphen"/>cerning Chriſt, that he was a ſinner, &amp;c. <hi>Whether he be a ſinner or no,</hi> ſaith he, <hi>I know not; one thing I am ſure of,</hi>
+               <pb n="38" facs="tcp:118143:23"/>
+               <hi>that whereas I was blind, I now ſee; and ſince the world began it was never known that a man born blind had his eys opened:</hi> So when you hear able, godly, conſcientious miniſters and meſſengers of God ſlighted and vilified as it's too common in our days, a heavie judgement of God up<g ref="char:EOLhyphen"/>on this Nation: I ſay, plead thy experiences in their behalf, and frame arguments from their converſation, doctrine, and work of grace in thy ſoul, who was born ſtark blind, and dead, to maintain the juſtneſs of their cauſe and innocency againſt all gainſayers.</p>
+            <p n="4">4. Have no mans perſon in admiration, either miniſter or private Chriſtian, but let thy affections be ſo poyſed, that the image of God in every man be the baſis and foundation of thy affections; although they may differ from thee in ſome circumſtantial points, if fearers of God, ſtand not at a diſtance with any.</p>
+            <p n="5">5. Part not eaſily with any truth of God, reſiſt herefie in the very beginning; buy the truth, and ſell it not, con<g ref="char:EOLhyphen"/>tend earneſtly for the faith once given to the Saints; lean not to thy own underſtanding, but conſult with the godly judicious learned when any truth is called in queſtion; part not upon eaſie terms, for there are that are cunning to deceive; therefore take heed of being deceived; it's Chriſt's own caution, <hi>Mark</hi> 13. 4. <hi>Mat.</hi> 24. 4. ſo the Apoſtle in <hi>Eph.</hi> 4. 14. <hi>Eph.</hi> 5. 6. 2 <hi>Theſ.</hi> 2. 3.</p>
+            <p n="6">6. Be not puft up with conceit of thy own abilities; think meanly of thy ſelf; according to <hi>Rom.</hi> 12. 3. be hum<g ref="char:EOLhyphen"/>ble, and God will give thee more and more knowledge of him: He will teach the humble, <hi>Pſal.</hi> 25. 9.</p>
+            <p n="7">7. Ever ſuſpect that doctrine that magnifies the creature, that tends to looſneſs of life, neglect of religious duties; and embrace that doctrine that preſſes holineſs and atten<g ref="char:EOLhyphen"/>dance upon divine ordinances, that ſets up Jeſus Chriſt and lays the creature low; and though it be againſt the grain of nature, yet it's the more like to proceed from God.</p>
+            <p n="8">8. Endeavour to walk as becomes thy profeſſion, ſutable
+<pb n="39" facs="tcp:118143:23"/>
+to that light and knowledge thou haſt of God; ſo ſhalt thou know more of God, if we follow on to know him; <hi>Hoſ.</hi> 6. 3. to him that ordereth his converſation aright, will he ſhew his ſalvation.</p>
+            <p n="9">9. Be converſant with the moſt knowing judicious god<g ref="char:EOLhyphen"/>ly Chriſtians, and be very well adviſed when either an old received truth is called in queſtion, or an old error is ſpread under the notion of a new light; for old error ſooneſt ſettles upon young heads: Men and women young in the matters of God, ſhun the ſociety of men profane, ſelfiſh or peeviſhly diſpoſed, whoſe minds run after novelties.</p>
+            <p n="10">10. Pray the Lord to direct and preſerve thee in the ways of truth and righteouſneſs; ſo ſhalt thou be preſerved from the error of the wicked.</p>
+            <p>I conclude with the prayer of the Apoſtle, <bibl>2 <hi>Theſ.</hi> 5. 23.</bibl>
+            </p>
+            <q>Now the very God of peace ſanctifie you throughout, and I pray God that your whole ſpirits, ſouls and bodies, may be kept blameleſs to the coming of our Lord and Saviour Je<g ref="char:EOLhyphen"/>ſus Chriſt.</q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
